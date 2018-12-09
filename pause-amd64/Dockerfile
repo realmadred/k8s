@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/kubernetes-apiserver-amd64:3.1
+FROM k8s.gcr.io/pause
 MAINTAINER liufeng
